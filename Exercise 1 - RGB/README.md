@@ -1,4 +1,5 @@
 ## Exercise 1 - RGB Hello World
+### Morse Code Message 
 
 As I sat to start this assignment, I first considered the ways color and light are used in a meaningful way. Color and light are powerful elements that if utilized smartly can have a great impact. The idea of Morse code came to me while I was debating what to do. Morse code is a form of communication that has been known for decades. It was primarily used for signaling short messages through dot and dash signals using audible beeps or lights. With the use of Morse code as a mode of communication, universal abbreviations to simplify words were created. For instance, in case of an emergency or cry for help “SOS” is commonly used to alert people. 
 
